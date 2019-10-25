@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Carlos Castro 192.168.56.1 12:05
+=======
+Matias Molina 192.168.2.124 12:07
+>>>>>>> Molina
